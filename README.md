@@ -1,3 +1,6 @@
+<strong> Web Conference Management Website</strong>
+
+
 A conference (or a convention) in the sense of a meeting, is a gathering of individuals who meet at an arranged place and time in order to discuss or engage in some common interest. In today’s world, when conferences are beginning to shape the thoughts and ideals of people, we need conference management systems to help the managers successfully host a conference.
 
 Our project is a conference management software, offering a Web-based solution for the management of events, abstract submissions, review process, and to therefore have an overview on all the upcoming conferences. It seamlessly integrates project management and task management, and helps to diplay it in an organised way. In addition to a powerful web application, it also supports mobile-version.
